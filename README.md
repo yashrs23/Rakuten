@@ -1,5 +1,4 @@
-# Rakuten
-Solution which I used to win Rakuten Deep Learning Challenge
+# Rakuten Deep Learning Challenge 
 
 ## Framework Used:  
 Fastai 1.0  
